@@ -15,5 +15,5 @@ array.max
 end
 
 def find_min_value(array)
-array = a.index(a.min)
+array = index(min)
 end
