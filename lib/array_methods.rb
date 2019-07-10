@@ -10,6 +10,7 @@ i = 0
 end
 
 def find_max_value(array)
+array.counter
 array.max
 end
 
