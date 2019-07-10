@@ -15,6 +15,5 @@ array.max
 end
 
 def find_min_value(array)
-array.count
-array.minimum
+array = a.index(a.min)
 end
